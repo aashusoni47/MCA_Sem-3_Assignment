@@ -105,4 +105,4 @@ npm start
 
 ## 👨‍💻 Author
 
-**Lokesh Sahu**
+**Aashutosh Soni**
