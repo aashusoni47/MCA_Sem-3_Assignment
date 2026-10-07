@@ -105,4 +105,4 @@ POST /api/auth/login
 
 ## 👨‍💻 Author
 
-**Lokesh Sahu**
+**Aashutosh Soni**
