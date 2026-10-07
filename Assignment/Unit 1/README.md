@@ -257,7 +257,7 @@ The main objective of this project is to demonstrate the use of:
 
 ## 👨‍💻 Author
 
-**Lokesh Sahu**
+**Aashutosh Soni**
 
 ### Project
 
