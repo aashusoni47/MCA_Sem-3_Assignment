@@ -73,8 +73,8 @@ npm start
 ```json
 POST /api/auth/register
 {
-  "name": "lokesh",
-  "email": "lokesh@example.com",
+  "name": "Aashutosh",
+  "email": "Aashutosh@example.com",
   "password": "123456"
 }
 ```
@@ -83,7 +83,7 @@ POST /api/auth/register
 ```json
 POST /api/auth/login
 {
-  "email": "lokesh@example.com",
+  "email": "Aashutosh@example.com",
   "password": "123456"
 }
 ```
